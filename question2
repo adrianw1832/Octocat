@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+When a repository is cloned on github, the local repository is linked to a remote called origin, which is the repository on the user(the one who used the clone command)'s github and not to the orignal. If the user wanted to keep track and in sync of the original repo, a new remote called 'upstream' needs to be created.

@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch can be viewed as one big commit which then allows the user to work/ experiment down a different path, with the ability to go back to the point of branching. An analogy of branching would be creating a junction to a straight road, which then leads to 2 different roads, and the car(user) can freely travel up and down these roads.
